@@ -52,7 +52,7 @@ var baseLayers = {
 	};
 	
 var overlays = {
-	'<img src="../../img/parking.svg" width="12" height="12"> Estacionamiento reservados': parkingClusters,
+	'<img src="../../img/parking.svg" width="12" height="12"> Estacionamientos reservados': parkingClusters,
 	}
 
 // Se añade el control de capas y se define su posición
