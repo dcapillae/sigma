@@ -3,7 +3,7 @@ var parking =
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-07-02T14:41:09Z",
+  "timestamp": "2022-07-02T17:06:54Z",
   "features": [
     {
       "type": "Feature",
@@ -12916,7 +12916,6 @@ var parking =
         "id": "node/9853385276",
         "access": "no",
         "amenity": "parking_space",
-        "capacity:disabled": "2",
         "covered": "no",
         "disabled": "designated",
         "parking_space": "disabled"
@@ -14304,7 +14303,6 @@ var parking =
         "id": "node/9856182541",
         "access": "no",
         "amenity": "parking_space",
-        "capacity:disabled": "5",
         "covered": "no",
         "disabled": "designated",
         "parking_space": "disabled"
@@ -14324,7 +14322,6 @@ var parking =
         "id": "node/9856182542",
         "access": "no",
         "amenity": "parking_space",
-        "capacity:disabled": "5",
         "covered": "no",
         "disabled": "designated",
         "parking_space": "disabled"
@@ -14344,7 +14341,6 @@ var parking =
         "id": "node/9856182543",
         "access": "no",
         "amenity": "parking_space",
-        "capacity:disabled": "5",
         "covered": "no",
         "disabled": "designated",
         "parking_space": "disabled"
@@ -14364,7 +14360,6 @@ var parking =
         "id": "node/9856182544",
         "access": "no",
         "amenity": "parking_space",
-        "capacity:disabled": "5",
         "covered": "no",
         "disabled": "designated",
         "parking_space": "disabled"
@@ -14479,7 +14474,6 @@ var parking =
         "id": "node/9856182704",
         "access": "no",
         "amenity": "parking_space",
-        "capacity:disabled": "2",
         "covered": "no",
         "disabled": "designated",
         "parking_space": "disabled"
@@ -14747,7 +14741,6 @@ var parking =
         "id": "node/9856182826",
         "access": "no",
         "amenity": "parking_space",
-        "capacity:disabled": "5",
         "covered": "no",
         "disabled": "designated",
         "parking_space": "disabled"
@@ -14806,7 +14799,6 @@ var parking =
         "id": "node/9856182829",
         "access": "no",
         "amenity": "parking_space",
-        "capacity:disabled": "2",
         "covered": "no",
         "disabled": "designated",
         "parking_space": "disabled"
@@ -14826,7 +14818,6 @@ var parking =
         "id": "node/9856384419",
         "access": "no",
         "amenity": "parking_space",
-        "capacity:disabled": "2",
         "covered": "no",
         "disabled": "designated",
         "parking_space": "disabled"
@@ -14846,7 +14837,6 @@ var parking =
         "id": "node/9856384420",
         "access": "no",
         "amenity": "parking_space",
-        "capacity:disabled": "2",
         "covered": "no",
         "disabled": "designated",
         "parking_space": "disabled"
@@ -15189,7 +15179,6 @@ var parking =
         "id": "node/9856387187",
         "access": "no",
         "amenity": "parking_space",
-        "capacity:disabled": "2",
         "covered": "no",
         "disabled": "designated",
         "parking_space": "disabled"
@@ -16864,6 +16853,7 @@ var parking =
         "id": "node/9862386836",
         "access": "no",
         "amenity": "parking_space",
+        "covered": "no",
         "disabled": "designated",
         "parking_space": "disabled"
       },
@@ -16882,6 +16872,7 @@ var parking =
         "id": "node/9862386837",
         "access": "no",
         "amenity": "parking_space",
+        "covered": "no",
         "disabled": "designated",
         "parking_space": "disabled"
       },
@@ -16900,6 +16891,7 @@ var parking =
         "id": "node/9862386869",
         "access": "no",
         "amenity": "parking_space",
+        "covered": "no",
         "disabled": "designated",
         "fixme": "Necesita verificación sobre el terreno. Según datos del Ayuntamiento, hay dos plazas reservadas a la altura del número 24 de la calle Peinado.",
         "parking_space": "disabled"
@@ -16919,6 +16911,7 @@ var parking =
         "id": "node/9862386933",
         "access": "no",
         "amenity": "parking_space",
+        "covered": "no",
         "disabled": "designated",
         "parking_space": "disabled"
       },
@@ -16937,6 +16930,7 @@ var parking =
         "id": "node/9862386986",
         "access": "no",
         "amenity": "parking_space",
+        "covered": "no",
         "disabled": "designated",
         "parking_space": "disabled"
       },
@@ -16955,6 +16949,7 @@ var parking =
         "id": "node/9862386991",
         "access": "no",
         "amenity": "parking_space",
+        "covered": "no",
         "disabled": "designated",
         "fixme": "Necesita verificación sobre el terreno. Según datos del Ayuntamiento, hay dos plazas reservadas a la altura del número 6 de la calle Vicente Gómez de Cádiz.",
         "parking_space": "disabled"
@@ -16974,6 +16969,7 @@ var parking =
         "id": "node/9862387015",
         "access": "no",
         "amenity": "parking_space",
+        "covered": "no",
         "disabled": "designated",
         "parking_space": "disabled"
       },
@@ -16992,6 +16988,7 @@ var parking =
         "id": "node/9862387016",
         "access": "no",
         "amenity": "parking_space",
+        "covered": "no",
         "disabled": "designated",
         "parking_space": "disabled"
       },
@@ -17010,6 +17007,7 @@ var parking =
         "id": "node/9862387017",
         "access": "no",
         "amenity": "parking_space",
+        "covered": "no",
         "disabled": "designated",
         "parking_space": "disabled"
       },
@@ -17028,6 +17026,7 @@ var parking =
         "id": "node/9862387018",
         "access": "no",
         "amenity": "parking_space",
+        "covered": "no",
         "disabled": "designated",
         "parking_space": "disabled"
       },
@@ -17046,6 +17045,7 @@ var parking =
         "id": "node/9862387045",
         "access": "no",
         "amenity": "parking_space",
+        "covered": "no",
         "disabled": "designated",
         "parking_space": "disabled"
       },
@@ -17064,6 +17064,7 @@ var parking =
         "id": "node/9862387073",
         "access": "no",
         "amenity": "parking_space",
+        "covered": "no",
         "disabled": "designated",
         "parking_space": "disabled"
       },
@@ -17082,6 +17083,7 @@ var parking =
         "id": "node/9862387079",
         "access": "no",
         "amenity": "parking_space",
+        "covered": "no",
         "disabled": "designated",
         "parking_space": "disabled"
       },
@@ -17100,6 +17102,7 @@ var parking =
         "id": "node/9862387104",
         "access": "no",
         "amenity": "parking_space",
+        "covered": "no",
         "disabled": "designated",
         "parking_space": "disabled"
       },
@@ -17118,6 +17121,7 @@ var parking =
         "id": "node/9862387119",
         "access": "no",
         "amenity": "parking_space",
+        "covered": "no",
         "disabled": "designated",
         "parking_space": "disabled"
       },
@@ -17136,6 +17140,7 @@ var parking =
         "id": "node/9862387147",
         "access": "no",
         "amenity": "parking_space",
+        "covered": "no",
         "disabled": "designated",
         "parking_space": "disabled"
       },
@@ -17154,6 +17159,7 @@ var parking =
         "id": "node/9862387200",
         "access": "no",
         "amenity": "parking_space",
+        "covered": "no",
         "disabled": "designated",
         "parking_space": "disabled"
       },
@@ -17172,6 +17178,7 @@ var parking =
         "id": "node/9862387211",
         "access": "no",
         "amenity": "parking_space",
+        "covered": "no",
         "disabled": "designated",
         "parking_space": "disabled"
       },
@@ -17190,6 +17197,7 @@ var parking =
         "id": "node/9862387214",
         "access": "no",
         "amenity": "parking_space",
+        "covered": "no",
         "disabled": "designated",
         "parking_space": "disabled"
       },
@@ -17208,6 +17216,7 @@ var parking =
         "id": "node/9862387215",
         "access": "no",
         "amenity": "parking_space",
+        "covered": "no",
         "disabled": "designated",
         "parking_space": "disabled"
       },
@@ -17226,6 +17235,7 @@ var parking =
         "id": "node/9862387216",
         "access": "no",
         "amenity": "parking_space",
+        "covered": "no",
         "disabled": "designated",
         "parking_space": "disabled"
       },
@@ -17244,6 +17254,7 @@ var parking =
         "id": "node/9862387217",
         "access": "no",
         "amenity": "parking_space",
+        "covered": "no",
         "disabled": "designated",
         "parking_space": "disabled"
       },
@@ -17262,6 +17273,7 @@ var parking =
         "id": "node/9862387218",
         "access": "no",
         "amenity": "parking_space",
+        "covered": "no",
         "disabled": "designated",
         "parking_space": "disabled"
       },
@@ -17280,6 +17292,7 @@ var parking =
         "id": "node/9862387219",
         "access": "no",
         "amenity": "parking_space",
+        "covered": "no",
         "disabled": "designated",
         "fixme": "Necesita verificación sobre el terreno. Según datos del Ayuntamiento, hay dos plazas reservadas a la altura del número 24 de la calle Peinado.",
         "parking_space": "disabled"
@@ -17299,6 +17312,7 @@ var parking =
         "id": "node/9862387220",
         "access": "no",
         "amenity": "parking_space",
+        "covered": "no",
         "disabled": "designated",
         "fixme": "Necesita verificación sobre el terreno. Según datos del Ayuntamiento, hay dos plazas reservadas a la altura del número 6 de la calle Vicente Gómez de Cádiz.",
         "parking_space": "disabled"
@@ -17318,6 +17332,7 @@ var parking =
         "id": "node/9862387221",
         "access": "no",
         "amenity": "parking_space",
+        "covered": "no",
         "disabled": "designated",
         "parking_space": "disabled"
       },
@@ -17336,6 +17351,7 @@ var parking =
         "id": "node/9862387222",
         "access": "no",
         "amenity": "parking_space",
+        "covered": "no",
         "disabled": "designated",
         "parking_space": "disabled"
       },
@@ -17354,6 +17370,7 @@ var parking =
         "id": "node/9862387223",
         "access": "no",
         "amenity": "parking_space",
+        "covered": "no",
         "disabled": "designated",
         "parking_space": "disabled"
       },
@@ -17372,6 +17389,7 @@ var parking =
         "id": "node/9862387224",
         "access": "no",
         "amenity": "parking_space",
+        "covered": "no",
         "disabled": "designated",
         "parking_space": "disabled"
       },
@@ -17390,6 +17408,7 @@ var parking =
         "id": "node/9862387225",
         "access": "no",
         "amenity": "parking_space",
+        "covered": "no",
         "disabled": "designated",
         "parking_space": "disabled"
       },
@@ -17408,6 +17427,7 @@ var parking =
         "id": "node/9862387226",
         "access": "no",
         "amenity": "parking_space",
+        "covered": "no",
         "disabled": "designated",
         "parking_space": "disabled"
       },
@@ -17426,6 +17446,7 @@ var parking =
         "id": "node/9862387227",
         "access": "no",
         "amenity": "parking_space",
+        "covered": "no",
         "disabled": "designated",
         "parking_space": "disabled"
       },
@@ -17444,6 +17465,7 @@ var parking =
         "id": "node/9862387228",
         "access": "no",
         "amenity": "parking_space",
+        "covered": "no",
         "disabled": "designated",
         "parking_space": "disabled"
       },
@@ -17462,6 +17484,7 @@ var parking =
         "id": "node/9862387229",
         "access": "no",
         "amenity": "parking_space",
+        "covered": "no",
         "disabled": "designated",
         "parking_space": "disabled"
       },
@@ -17480,6 +17503,7 @@ var parking =
         "id": "node/9862387230",
         "access": "no",
         "amenity": "parking_space",
+        "covered": "no",
         "disabled": "designated",
         "parking_space": "disabled"
       },
@@ -17498,6 +17522,7 @@ var parking =
         "id": "node/9862387231",
         "access": "no",
         "amenity": "parking_space",
+        "covered": "no",
         "disabled": "designated",
         "parking_space": "disabled"
       },
@@ -17516,6 +17541,7 @@ var parking =
         "id": "node/9862387232",
         "access": "no",
         "amenity": "parking_space",
+        "covered": "no",
         "disabled": "designated",
         "parking_space": "disabled"
       },
@@ -17534,6 +17560,7 @@ var parking =
         "id": "node/9862387233",
         "access": "no",
         "amenity": "parking_space",
+        "covered": "no",
         "disabled": "designated",
         "parking_space": "disabled"
       },
@@ -17552,6 +17579,7 @@ var parking =
         "id": "node/9862387234",
         "access": "no",
         "amenity": "parking_space",
+        "covered": "no",
         "disabled": "designated",
         "parking_space": "disabled"
       },
@@ -17570,6 +17598,7 @@ var parking =
         "id": "node/9862387235",
         "access": "no",
         "amenity": "parking_space",
+        "covered": "no",
         "disabled": "designated",
         "parking_space": "disabled"
       },
@@ -17588,6 +17617,7 @@ var parking =
         "id": "node/9862387236",
         "access": "no",
         "amenity": "parking_space",
+        "covered": "no",
         "disabled": "designated",
         "parking_space": "disabled"
       },
@@ -17606,6 +17636,7 @@ var parking =
         "id": "node/9862387237",
         "access": "no",
         "amenity": "parking_space",
+        "covered": "no",
         "disabled": "designated",
         "parking_space": "disabled"
       },
@@ -17624,6 +17655,7 @@ var parking =
         "id": "node/9862387238",
         "access": "no",
         "amenity": "parking_space",
+        "covered": "no",
         "disabled": "designated",
         "parking_space": "disabled"
       },
@@ -17642,6 +17674,7 @@ var parking =
         "id": "node/9862387239",
         "access": "no",
         "amenity": "parking_space",
+        "covered": "no",
         "disabled": "designated",
         "parking_space": "disabled"
       },
@@ -17660,6 +17693,7 @@ var parking =
         "id": "node/9862387240",
         "access": "no",
         "amenity": "parking_space",
+        "covered": "no",
         "disabled": "designated",
         "parking_space": "disabled"
       },
@@ -17678,6 +17712,7 @@ var parking =
         "id": "node/9862387241",
         "access": "no",
         "amenity": "parking_space",
+        "covered": "no",
         "disabled": "designated",
         "parking_space": "disabled"
       },
@@ -17689,6 +17724,405 @@ var parking =
         ]
       },
       "id": "node/9862387241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "node/9862597973",
+        "access": "no",
+        "amenity": "parking_space",
+        "covered": "no",
+        "disabled": "designated",
+        "parking_space": "disabled"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4178906,
+          36.7240714
+        ]
+      },
+      "id": "node/9862597973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "node/9862597994",
+        "access": "no",
+        "amenity": "parking_space",
+        "covered": "no",
+        "disabled": "designated",
+        "parking_space": "disabled"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4174199,
+          36.724546
+        ]
+      },
+      "id": "node/9862597994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "node/9862597995",
+        "access": "no",
+        "amenity": "parking_space",
+        "covered": "no",
+        "disabled": "designated",
+        "parking_space": "disabled"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4174501,
+          36.7245718
+        ]
+      },
+      "id": "node/9862597995"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "node/9862598005",
+        "access": "no",
+        "amenity": "parking_space",
+        "covered": "no",
+        "disabled": "designated",
+        "parking_space": "disabled"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4192927,
+          36.7278196
+        ]
+      },
+      "id": "node/9862598005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "node/9862598006",
+        "access": "no",
+        "amenity": "parking_space",
+        "covered": "no",
+        "disabled": "designated",
+        "parking_space": "disabled"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4192867,
+          36.7278578
+        ]
+      },
+      "id": "node/9862598006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "node/9862621851",
+        "access": "no",
+        "amenity": "parking_space",
+        "covered": "no",
+        "disabled": "designated",
+        "parking_space": "disabled"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4187194,
+          36.7277686
+        ]
+      },
+      "id": "node/9862621851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "node/9862621852",
+        "access": "no",
+        "amenity": "parking_space",
+        "covered": "no",
+        "disabled": "designated",
+        "parking_space": "disabled"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4187117,
+          36.727804
+        ]
+      },
+      "id": "node/9862621852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "node/9862621898",
+        "access": "no",
+        "amenity": "parking_space",
+        "covered": "no",
+        "disabled": "designated",
+        "parking_space": "disabled"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4253029,
+          36.723125
+        ]
+      },
+      "id": "node/9862621898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "node/9862621899",
+        "access": "no",
+        "amenity": "parking_space",
+        "covered": "no",
+        "disabled": "designated",
+        "parking_space": "disabled"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4253083,
+          36.7231723
+        ]
+      },
+      "id": "node/9862621899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "node/9862621901",
+        "access": "no",
+        "amenity": "parking_space",
+        "covered": "no",
+        "disabled": "designated",
+        "parking_space": "disabled"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4253981,
+          36.7243627
+        ]
+      },
+      "id": "node/9862621901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "node/9862621935",
+        "access": "no",
+        "amenity": "parking_space",
+        "covered": "no",
+        "disabled": "designated",
+        "parking_space": "disabled"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4201443,
+          36.7274864
+        ]
+      },
+      "id": "node/9862621935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "node/9862621950",
+        "access": "no",
+        "amenity": "parking_space",
+        "covered": "no",
+        "disabled": "designated",
+        "parking_space": "disabled"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4237097,
+          36.7272892
+        ]
+      },
+      "id": "node/9862621950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "node/9862621951",
+        "access": "no",
+        "amenity": "parking_space",
+        "covered": "no",
+        "disabled": "designated",
+        "parking_space": "disabled"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.417847,
+          36.7240333
+        ]
+      },
+      "id": "node/9862621951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "node/9862621952",
+        "access": "no",
+        "amenity": "parking_space",
+        "covered": "no",
+        "disabled": "designated",
+        "parking_space": "disabled"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4254001,
+          36.7244058
+        ]
+      },
+      "id": "node/9862621952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "node/9862621953",
+        "access": "no",
+        "amenity": "parking_space",
+        "covered": "no",
+        "disabled": "designated",
+        "parking_space": "disabled"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4192807,
+          36.727896
+        ]
+      },
+      "id": "node/9862621953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "node/9862621954",
+        "access": "no",
+        "amenity": "parking_space",
+        "covered": "no",
+        "disabled": "designated",
+        "parking_space": "disabled"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4253136,
+          36.7232196
+        ]
+      },
+      "id": "node/9862621954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "node/9862621955",
+        "access": "no",
+        "amenity": "parking_space",
+        "covered": "no",
+        "disabled": "designated",
+        "parking_space": "disabled"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4201524,
+          36.7274483
+        ]
+      },
+      "id": "node/9862621955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "node/9862621956",
+        "access": "no",
+        "amenity": "parking_space",
+        "covered": "no",
+        "disabled": "designated",
+        "parking_space": "disabled"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.418704,
+          36.7278395
+        ]
+      },
+      "id": "node/9862621956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "node/9862621957",
+        "access": "no",
+        "amenity": "parking_space",
+        "covered": "no",
+        "disabled": "designated",
+        "parking_space": "disabled"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.422848,
+          36.7274039
+        ]
+      },
+      "id": "node/9862621957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "node/9862621958",
+        "access": "no",
+        "amenity": "parking_space",
+        "covered": "no",
+        "disabled": "designated",
+        "parking_space": "disabled"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4254819,
+          36.7254947
+        ]
+      },
+      "id": "node/9862621958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "node/9862621959",
+        "access": "no",
+        "amenity": "parking_space",
+        "covered": "no",
+        "disabled": "designated",
+        "parking_space": "disabled"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.420253,
+          36.7274214
+        ]
+      },
+      "id": "node/9862621959"
     }
   ]
 }
