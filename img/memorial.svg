@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="14"
+   height="14"
+   viewBox="0 0 14 14"
+   version="1.1"
+   id="svg1022"
+   sodipodi:docname="memorial.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1026" />
+  <sodipodi:namedview
+     id="namedview1024"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="51.357143"
+     inkscape:cx="-0.17524339"
+     inkscape:cy="7"
+     inkscape:window-width="1846"
+     inkscape:window-height="1016"
+     inkscape:window-x="74"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1022" />
+  <path
+     d="M 6,2 C 5,2 4,3 4,4 l 0,8 8,0 0,-8 C 12,3 11,2 10,2 z M 7,4 9,4 9,5 7,5 z m -2,2 6,0 0,1 -6,0 z m 1,2 4,0 0,1 -4,0 z m -3,5 -1,1 0,1 12,0 0,-1 -1,-1 z"
+     id="path1020"
+     style="fill:#8b4513" />
+</svg>

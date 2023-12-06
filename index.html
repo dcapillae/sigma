@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+
+<html lang="es">
+
+<head>
+
+	<meta charset="utf-8">
+	<meta http-equiv="Content-Type" content="text/html"; charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta name="author" content="Daniel Capilla" />
+	<meta name="description" content="Sigma, información geográfica de Málaga basada en OpenStreetMap">
+	<meta name="keywords" content="Málaga, información geográfica, Sistema de Información Geográfica, SIG, OpenStreetMap, OSM" />
+	<meta name="Content-Language" content="es" />
+	<meta property="og:site_name" content="Sigma" />
+	<meta property="og:title" content="Sigma" />
+	<meta property="og:description" content="Información geográfica de Málaga basada en OpenStreetMap" />
+	<meta property="og:locale" content="es_ES" />
+	<meta property="og:url" content="https://dcapillae.github.io/sigma" />
+	<meta property="og:image" content="img/sigma.png" />
+	
+	<title>Sigma</title>
+
+	<link rel="stylesheet" href="lib/leaflet/leaflet.css" />
+	<link rel="stylesheet" href="lib/leaflet.zoomhome.css" />
+	<link rel="stylesheet" href="lib/L.Control.MousePosition.css" />
+	<link rel="stylesheet" href="lib/fontawesome/css/all.css" />
+	<link rel="stylesheet" href="lib/sidebar-v2/leaflet-sidebar.min.css" />
+	<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.0/dist/MarkerCluster.css" />
+	<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.0/dist/MarkerCluster.Default.css" />
+	<link rel="stylesheet" href="css/style.css" />
+
+</head>
+
+<body>
+
+	<header id="header">
+		<img class="logo" src="img/sigma.png" alt="Logo" width="35" height="35">
+		<h1 id="title">Sigma</h1>
+		
+		<div class="dropdown">
+  			<button>Mapas independientes</button>
+			<div class="dropdown-content">
+				<a href="./standalone/containers/index.html" target="blanck">Contenedores</a>
+				<a href="./standalone/parking/index.html" target="blanck">Estacionamientos</a>
+				<a href="./standalone/christmas/index.html" target="blanck">Navidad</a>
+			</div>
+		</div>
+
+	</header>
+
+	<div id="map"></div>
+	
+	<script src="lib/leaflet/leaflet.js"></script>
+	<script src="lib/zoomhome/leaflet.zoomhome.min.js"></script>
+	<script src="lib/control-mouseposition/L.Control.MousePosition.js"></script>
+	<script src="lib/sidebar-v2/leaflet-sidebar.min.js"></script>
+	<script src="lib/leaflet-fullHash/leaflet-fullHash.js"></script>
+	<script src="https://unpkg.com/leaflet.markercluster@1.4.0/dist/leaflet.markercluster.js"></script>
+	<script src="data/neighbourhoods.js"></script>
+	<script src="data/boroughs.js"></script>
+	<script src="data/fountains.js"></script>
+	<script src="data/artworks.js"></script>
+	<script src="data/memorials.js"></script>
+	<script src="js/fountains.js"></script>
+	<script src="js/artworks.js"></script>
+	<script src="js/memorials.js"></script>
+	<script src="js/main.js"></script>
+
+
+</body>
+
+</html>

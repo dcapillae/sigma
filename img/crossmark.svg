@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="7.5294952"
+   height="12.165664"
+   viewBox="0 0 7.5294952 12.165664"
+   version="1.1"
+   id="svg1152"
+   sodipodi:docname="crossesmark.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1156" />
+  <sodipodi:namedview
+     id="namedview1154"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="51.357145"
+     inkscape:cx="3.3783031"
+     inkscape:cy="6.7273989"
+     inkscape:window-width="1846"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1152"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <g
+     id="g827">
+    <path
+       id="path1273"
+       style="fill:#fffafa;stroke:#8b4513;stroke-width:0.412026;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       d="m 7.3234822,3.6357296 c 0,1.8941798 -3.5587344,8.1150494 -3.5587344,8.1150494 0,0 -3.55873441,-6.2208696 -3.55873481,-8.1150494 4e-7,-1.8941801 1.59329981,-3.42971661 3.55873481,-3.42971661 1.9654346,0 3.5587344,1.53553651 3.5587344,3.42971661 z"
+       sodipodi:nodetypes="scsss" />
+    <path
+       d="M 3.3850367,3.0835435 H 1.866193 V 3.8429653 H 3.3850367 V 6.8806527 H 4.1444585 V 3.8429653 H 5.6633022 V 3.0835435 H 4.1444585 V 1.9444107 a 0.37971092,0.37971092 0 0 0 -0.7594218,0 z"
+       id="path1150"
+       style="fill:#8b4513;stroke-width:0.759422" />
+  </g>
+</svg>

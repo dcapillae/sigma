@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="18.274338"
+   height="29.526472"
+   viewBox="0 0 18.274338 29.526472"
+   version="1.1"
+   id="svg1087"
+   sodipodi:docname="obelisksmark.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1091" />
+  <sodipodi:namedview
+     id="namedview1089"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="25.908954"
+     inkscape:cx="9.1281183"
+     inkscape:cy="14.763236"
+     inkscape:window-width="1846"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1087"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <g
+     id="g832">
+    <path
+       id="path1273"
+       style="fill:#fffafa;stroke:#8b4513;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       d="m 17.774338,8.8240366 c 0,4.5972384 -8.6371691,19.6954964 -8.6371691,19.6954964 0,0 -8.6371679,-15.098258 -8.6371689,-19.6954964 C 0.500001,4.2267981 4.366992,0.5 9.1371689,0.5 c 4.7701771,0 8.6371691,3.7267981 8.6371691,8.3240366 z"
+       sodipodi:nodetypes="scsss" />
+    <path
+       d="M 9.1371689,2.8939373 8.0247827,4.7461055 7.7914529,14.006947 H 10.482884 L 10.249555,4.7461055 Z M 5.4328324,14.933032 v 0.926083 h 7.4086726 v -0.926083 z"
+       id="path1085"
+       style="fill:#8b4513;stroke-width:0.92608" />
+  </g>
+</svg>

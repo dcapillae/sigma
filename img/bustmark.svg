@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="18.375"
+   height="29.632322"
+   viewBox="0 0 18.375 29.632323"
+   version="1.1"
+   id="svg892"
+   sodipodi:docname="bustsmark.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs896" />
+  <sodipodi:namedview
+     id="namedview894"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="25.678572"
+     inkscape:cx="-11.605007"
+     inkscape:cy="15.401947"
+     inkscape:window-width="1846"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg892"
+     inkscape:object-paths="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-smooth-nodes="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <g
+     id="g832"
+     transform="translate(0.36144501,0.36144499)">
+    <path
+       id="path1180"
+       style="fill:#fffafa;stroke:#8b4513;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       inkscape:transform-center-x="2.5164787"
+       inkscape:transform-center-y="-0.40667357"
+       d="M 8.826055,0.13855501 A 8.6878052,8.6878052 0 0 0 0.13855501,8.826055 8.6878052,8.6878052 0 0 0 1.0116019,12.597539 H 0.99988309 L 8.826055,28.158086 16.652227,12.597539 h -0.01172 a 8.6878052,8.6878052 0 0 0 0.873048,-3.771484 8.6878052,8.6878052 0 0 0 -8.6875,-8.68749999 z" />
+    <path
+       d="m 8.826055,1.826055 a 2,2 0 0 0 0,4 2,2 0 0 0 0,-4 z M 8.7830862,6.5076956 C 7.1163384,6.5111359 5.4636379,7.0429176 3.826055,8.0936331 5.179062,8.9969535 6.2884144,10.079471 6.2616019,11.601446 H 11.367071 C 11.297954,10.061325 12.641094,8.9410558 13.826055,8.0936331 12.130629,7.0291565 10.449834,6.5042554 8.7830862,6.5076956 Z M 6.826055,12.826055 v 1 h 4 v -1 z m -2,2 v 1 h 8 v -1 z"
+       id="path890"
+       style="fill:#8b4513" />
+  </g>
+</svg>
