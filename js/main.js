@@ -5,7 +5,7 @@ var cartociudad = L.tileLayer.wms("http://www.ign.es/wms-inspire/ign-base", {
 	format: 'image/png',//Formato de las imágenes (según proveedor del servicio)
 	version: '1.3.0',//versión según el proveedor del servicio
 	attribution: '<a href="http://www.scne.es/productos.html#CartoCiudad" target="blanck">CartoCiudad</a> \u00a9 <a href="http://www.ign.es" target="blanck">Instituto Geográfico Nacional de España</a> (<a href="https://creativecommons.org/licenses/by/4.0/legalcode.es" target="blanck">CC BY 4.0</a>)',
-	maxZoom: 19
+	maxZoom: 21
 	});
 	
 var pnoa = L.tileLayer.wms("http://www.ign.es/wms-inspire/pnoa-ma?SERVICE=WMS&", {
@@ -14,22 +14,22 @@ var pnoa = L.tileLayer.wms("http://www.ign.es/wms-inspire/pnoa-ma?SERVICE=WMS&",
 	format: 'image/jpeg',//Formato de las imágenes (según proveedor del servicio)
 	version: '1.3.0',//versión según el proveedor del servicio
 	attribution: 'Ortofotos <a href="http://www.scne.es/productos.html#OrtoPNOA" target="blanck">PNOA</a> \u00a9 <a href="http://www.ign.es" target="blanck">Instituto Geográfico Nacional de España</a> (<a href="https://creativecommons.org/licenses/by/4.0/legalcode.es" target="blanck">CC BY 4.0</a>)',
-	maxZoom: 19
+	maxZoom: 21
 });
 
 var osmcarto = L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
 	attribution: 'Datos &copy; <a href="http://osm.org/copyright" target="blanck">Colaboradores de OpenStreetMap</a> (<a href="http://www.openstreetmap.org/copyright" target="blanck">ODbL</a>) | Teselas <a href="https://github.com/gravitystorm/openstreetmap-carto" target="blanck">OSM Carto</a> &copy; Randy Allan y otros colaboradores (<a href="https://creativecommons.org/licenses/by-sa/2.0/deed.es" target="blanck">CC BY-SA 2.0</a>)',
-    maxZoom: 19
+    maxZoom: 21
    });
 
 var osmfr = L.tileLayer('https://{s}.tile.openstreetmap.fr/osmfr/{z}/{x}/{y}.png', {
 	attribution: 'Datos &copy; <a href="http://osm.org/copyright" target="blanck">Colaboradores de OpenStreetMap</a> (<a href="http://www.openstreetmap.org/copyright" target="blanck">ODbL</a>) | Teselas © <a href="https://www.openstreetmap.fr/mentions-legales/">OpenStreetMap France</a> (<a href="https://creativecommons.org/licenses/by-sa/2.0/deed.es" target="blanck">CC BY-SA 2.0</a>)',
-   maxZoom: 19
+   maxZoom: 21
 	});
 
 var osmhumanitarian = L.tileLayer('http://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png', {
 	attribution: 'Datos \u00a9 <a href="http://www.openstreetmap.org">' + 'Colaboradores de OpenStreetMap</a> (<a href="http://www.openstreetmap.org/copyright">ODbL</a>) | Teselas \u00a9 <a href="https://github.com/hotosm/HDM-CartoCSS">Humanitarian HDM CartoCSS</a> (<a href="https://github.com/hotosm/HDM-CartoCSS/blob/master/LICENCE.txt" target="blanck">CC0 1.0</a>)',
-	maxZoom: 19
+	maxZoom: 21
 	});
 
 var opentopomap = L.tileLayer('https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png', {
