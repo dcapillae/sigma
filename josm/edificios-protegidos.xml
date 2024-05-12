@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0"
+                author="Daniel Capilla"
+                version="1.00_2024-05-12"
+                shortdescription="Edificios protegidos incluidos en el catálogo de edificios protegidos del Ayuntamiento de Málaga"
+                en.shortdescription="Protected buildings listed in the catalog of protected buildings of the Malaga City Council"
+                description="Predifinido de JOSM para mapear edificios protegidos incluidos en el catálogo de edificios protegidos del Ayuntamiento de Málaga"
+                en.description="JOSM preset to map protected buildings listed in the catalog of protected buildings of the Malaga City Council"
+                icon="https://upload.wikimedia.org/wikipedia/commons/6/64/Icon_%27Kellergasse%27_f%C3%BCr_WikiDaheim.svg"
+                baselanguage="es">
+<group name="Patrimonio"
+        en.name="Heritage">
+        <item name="Edificios protegidos de Málaga"
+                en.name="Protected buildings of Malaga"
+                preset_name_label="false" 
+                icon="https://upload.wikimedia.org/wikipedia/commons/6/64/Icon_%27Kellergasse%27_f%C3%BCr_WikiDaheim.svg">
+<!-- Default values -->
+                <key key="heritage" value="8"/>
+                <key key="heritage:operator" value="Ayuntamiento de Málaga"/>
+                <key key="protection_title" value="Edificio Protegido"/>          
+                <key key="heritage:website" value="https://urbanismo.malaga.eu/plan-general-de-ordenacion/plan-general-de-ordenacion-urbana-vigente-2011"/>
+                <key key="historic" value="building"/>
+                <key key="protect_class" value = "22"/>
+<!-- Editable values -->
+                <combo key="listed_status"
+                        values="Integral,Arquitectónica I,Arquitectónica II,Conjunto"
+                        delimiter=","
+                        display_values="Integral,Arquitectónica I,Arquitectónica II,Conjunto"
+                        en.display_values="Integral,Arquitectónica I,Arquitectónica II,Conjunto"
+                        text="Grado de protección"
+                        en.text="Protection grade" />           
+                <text key="ref:cep"
+                        text="Referencia"
+                        en.text="Reference" />
+                <text key="heritage:url"
+                        text="URL específica del edificio en el catálogo"
+                        en.text="List URL" />
+		<space/>    
+                <text key="start_date"
+                        text="Fecha de construcción"
+                        en.text="Date of construction"/>
+                <text key="building:architecture"
+                        text="Estilo arquitectónico"
+                        en.text="Architectural style"/>
+                <text key="architect"
+                        text="Arquitecto(s)"
+                        en.text="Architect(s)"/>
+                <space/>
+                <text key="description"
+                        text="Descripción"
+                        en.text="Description"/>
+                <space/>        
+                <text key="name"
+                        text="Nombre del edificio (si lo tiene)"
+                        en.text="Building name"/>
+                <text key="wikipedia"
+                        text="Artículo Wikipedia (es:Ejemplo)"
+                        en.text="Wikipedia article (es:Example)"/>
+                <text key="wikimedia_commons"
+                        text="Categoría o imagen en Commons (File:Ejemplo)"
+                        en.text="Commons category or image (File:Example)" />
+                <text key="wikidata"
+                        text="Elemento Wikidata"
+                        en.text="Wikidata item" />
+                        <space/>
+                <link href="https://wiki.openstreetmap.org/wiki/ES:Objetos_culturales_en_Málaga#Edificios_protegidos"/>
+        </item>
+</group>
+</presets>
