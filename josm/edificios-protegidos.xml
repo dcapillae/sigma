@@ -6,14 +6,14 @@
                 en.shortdescription="Protected buildings listed in the catalog of protected buildings of the Malaga City Council"
                 description="Predifinido de JOSM para mapear edificios protegidos incluidos en el catálogo de edificios protegidos del Ayuntamiento de Málaga"
                 en.description="JOSM preset to map protected buildings listed in the catalog of protected buildings of the Malaga City Council"
-                icon="https://upload.wikimedia.org/wikipedia/commons/6/64/Icon_%27Kellergasse%27_f%C3%BCr_WikiDaheim.svg"
+                icon="https://raw.githubusercontent.com/dcapillae/sigma/main/img/edificios-protegidos.svg"
                 baselanguage="es">
 <group name="Patrimonio"
         en.name="Heritage">
         <item name="Edificios protegidos de Málaga"
                 en.name="Protected buildings of Malaga"
                 preset_name_label="false" 
-                icon="https://upload.wikimedia.org/wikipedia/commons/6/64/Icon_%27Kellergasse%27_f%C3%BCr_WikiDaheim.svg">
+                icon="https://raw.githubusercontent.com/dcapillae/sigma/main/img/edificios-protegidos.svg">
 <!-- Default values -->
                 <key key="heritage" value="8"/>
                 <key key="heritage:operator" value="Ayuntamiento de Málaga"/>
