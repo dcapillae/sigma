@@ -49,6 +49,9 @@
                 <text key="description"
                         text="Descripción"
                         en.text="Description"/>
+                <text key="heritage:description"
+                        text="Interés patrimonial (¿por qué es valioso?)"
+                        en.text="Heritage interest (why is it valuable?)" />
                 <space/>        
                 <text key="name"
                         text="Nombre del edificio (si lo tiene)"
