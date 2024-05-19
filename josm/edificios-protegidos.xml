@@ -17,7 +17,6 @@
 <!-- Default values -->
                 <key key="heritage" value="8"/>
                 <key key="heritage:operator" value="Ayuntamiento de Málaga"/>
-                <key key="protection_title" value="Edificio Protegido"/>          
                 <key key="heritage:website" value="https://urbanismo.malaga.eu/plan-general-de-ordenacion/plan-general-de-ordenacion-urbana-vigente-2011"/>
                 <key key="historic" value="building"/>
                 <key key="protect_class" value = "22"/>
@@ -28,14 +27,14 @@
                         display_values="Integral,Arquitectónica I,Arquitectónica II,Conjunto"
                         en.display_values="Integral,Arquitectónica I,Arquitectónica II,Conjunto"
                         text="Grado de protección"
-                        en.text="Protection grade" />           
-                <text key="ref:cep"
+                        en.text="Protection grade" />
+                <text key="ref:am"
                         text="Referencia"
                         en.text="Reference" />
                 <text key="heritage:url"
                         text="URL específica del edificio en el catálogo"
                         en.text="List URL" />
-		<space/>    
+		<space/>
                 <text key="start_date"
                         text="Fecha de construcción"
                         en.text="Date of construction"/>
@@ -52,7 +51,7 @@
                 <text key="heritage:description"
                         text="Interés patrimonial (¿por qué es valioso?)"
                         en.text="Heritage interest (why is it valuable?)" />
-                <space/>        
+                <space/>
                 <text key="name"
                         text="Nombre del edificio (si lo tiene)"
                         en.text="Building name"/>
