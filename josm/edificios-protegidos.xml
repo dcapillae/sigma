@@ -17,7 +17,7 @@
 <!-- Default values -->
                 <key key="heritage" value="8"/>
                 <key key="heritage:operator" value="Ayuntamiento de Málaga"/>
-                <key key="heritage:website" value="https://urbanismo.malaga.eu/plan-general-de-ordenacion/plan-general-de-ordenacion-urbana-vigente-2011"/>
+                <key key="heritage:am:website" value="https://urbanismo.malaga.eu/plan-general-de-ordenacion/plan-general-de-ordenacion-urbana-vigente-2011"/>
                 <key key="historic" value="building"/>
                 <key key="protect_class" value = "22"/>
 <!-- Editable values -->
@@ -31,7 +31,7 @@
                 <text key="ref:am"
                         text="Referencia"
                         en.text="Reference" />
-                <text key="heritage:url"
+                <text key="heritage:am:url"
                         text="URL específica del edificio en el catálogo"
                         en.text="List URL" />
 		<space/>
