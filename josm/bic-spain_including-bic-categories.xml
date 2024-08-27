@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0"
+                author="Daniel Capilla"
+                version="1.11_2023-09-17"
+                shortdescription="Bienes de Interés Cultural en España"
+                en.shortdescription="Spanish Property of Cultural Interest"
+                description="Predifinido de JOSM para mapear Bienes de Interés Cultural (BIC) de España en OpenStreetMap"
+                en.description="JOSM preset to map Spanish Properties of Cultural Interest (BIC, in Spanish) on OpenStreetMap"
+                baselanguage="es">
+<group name="Patrimonio"
+        en.name="Heritage">
+        <item name="Bien de Interés Cultural (España)"
+                en.name="Property of Cultural Interest (Spain)"
+                preset_name_label="false" >
+<!-- Default values -->
+                <key key="heritage" value="2"/>
+                <key key="heritage:operator" value="mcd"/>
+                <key key="protection_title" value="Bien de Interés Cultural"/>          
+                <key key="heritage:website" value="https://www.culturaydeporte.gob.es/cultura/patrimonio/bienes-culturales-protegidos.html"/>
+<!-- Editable values -->
+                <text key="name"
+                        text="Nombre del BIC"
+                        en.text="BIC name"/>
+                <combo key="protection_title:category"
+                        values="Monumento,Conjunto histórico,Sitio histórico,Jardín histórico,Zona arqueológica"
+                        delimiter=","
+                        display_values="Monumento,Conjunto histórico,Sitio histórico,Jardín histórico,Zona arqueológica"
+                        en.display_values="Monument,Historic complex,Historic site,Historic garden,Archaeological site"
+                        text="Categoría del BIC"
+                        en.text="BIC category" />              
+                <text key="historic"
+                        text="Tipo de objeto histórico"
+                        en.text="Type of historic object" />              
+		<space/>                
+                <text key="ref:bic" text="Número de referencia" en.text="Reference number"/>    
+                <text key="bic:inscription_date"
+                        text="Protegido desde (formato:1988-03-17)"
+                        en.text="Protected since (format:1988-03-17)"/>         
+                <space/>                
+                <text key="wikipedia"
+                        text="Artículo Wikipedia (es:Ejemplo)"
+                        en.text="Wikipedia article (es:Example)"/>
+                <text key="wikimedia_commons"
+                        text="Categoría Commons (Category:Ejemplo)"
+                        en.text="Commons category (Category:Example)" />
+                <text key="wikidata"
+                        text="Elemento Wikidata"
+                        en.text="Wikidata item" />
+                        <space/>
+                <link href="https://wiki.openstreetmap.org/wiki/Key:ref:bic"/>
+        </item>
+</group>
+</presets>
