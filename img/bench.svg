@@ -5,7 +5,7 @@
    viewBox="0 0 14 14"
    version="1.1"
    id="svg1022"
-   sodipodi:docname="memorial.svg"
+   sodipodi:docname="bench.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -33,8 +33,20 @@
      inkscape:current-layer="svg1022"
      inkscape:showpageshadow="2"
      inkscape:deskcolor="#d1d1d1" />
-  <path
-     d="m 5,0.5 c -1,0 -2,1 -2,2 v 8 h 8 v -8 c 0,-1 -1,-2 -2,-2 z m 1,2 h 2 v 1 H 6 Z m -2,2 h 6 v 1 H 4 Z m 1,2 h 4 v 1 H 5 Z m -3,5 -1,1 v 1 h 12 v -1 l -1,-1 z"
-     id="path1020"
-     style="fill:#8b4513" />
+  <g
+     id="g1492"
+     transform="translate(-2.1371688,-1.4701333)">
+    <path
+       d="m 3.1371686,8.21628 c -1,0 -1,1.4869113 0,1.4869113 H 15.137169 c 1,0 1,-1.4869113 0,-1.4869113 z m 1,1.982548 v 2.973823 h 1.5 v -2.973823 z m 8.5000004,0 v 2.973823 h 1.5 v -2.973823 z"
+       id="bench"
+       style="fill:#8b4513;fill-opacity:1;stroke-width:0.995627" />
+    <rect
+       style="opacity:1;fill:#8b4513;fill-opacity:1;stroke-width:0;stroke-linecap:square;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect1441"
+       width="10.824713"
+       height="3.7659414"
+       x="3.724812"
+       y="3.7676156"
+       ry="1.1805725" />
+  </g>
 </svg>
