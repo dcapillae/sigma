@@ -241,7 +241,7 @@ var baseLayers = {
 var overlays = {
 	'Árboles de Navidad': treesClusters,
 	'Artículos navideños': shopsClusters,
-	'Belenes / Nacimientoss': cribsClusters,
+	'Belenes / Nacimientos': cribsClusters,
 	'Buzones de Navidad': letterboxesClusters,
 	'Eventos navideños': eventsClusters,
 	'Luces de Navidad': lightingClusters,
